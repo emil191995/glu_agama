@@ -1,1 +1,18 @@
-{}
+{
+    "dsw": {
+        "projectName": "dsw",
+        "description": "ssa",
+        "type": "community",
+        "author": "emil191995",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/emil191995/glu_agama",
+        "githubUri": "https://github.com/emil191995/glu_agama",
+        "license": "apache-2.0",
+        "lastUpdated": "1757181064371",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}

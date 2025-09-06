@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {
+      "id": "startNode-a2dc9004-b9fb-4dde-a6b5-78a19a58de54",
+      "type": "startNode",
+      "sourcePosition": "right",
+      "position": {
+        "x": 30,
+        "y": 30
+      },
+      "deletable": false,
+      "data": {
+        "id": "startNode-a2dc9004-b9fb-4dde-a6b5-78a19a58de54",
+        "type": "startNode",
+        "position": {
+          "x": 30,
+          "y": 40
+        },
+        "agamaData": {
+          "isTopLevelFlow": true,
+          "basepath": "",
+          "configParams": "{}",
+          "nodeIcon": "material-symbols:line-start-square",
+          "timeout": "",
+          "inputs": "",
+          "configs": "",
+          "flowname": "sssa.smsotp",
+          "displayName": "ss",
+          "creationDate": "06/09/2025",
+          "hasComment": true,
+          "comment": ""
+        }
+      }
+    }
+  ]
+}
